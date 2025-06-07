@@ -13,16 +13,16 @@ export default function Navbar() {
               <span className="font-semibold text-gray-900">Inventory</span>
             </a>
             <div className="hidden sm:ml-8 sm:flex sm:space-x-4">
-              <a href="/dashboard" className="px-3 py-2 text-sm font-medium text-gray-900 hover:text-blue-600">
+              <a href="#" className="px-3 py-2 text-sm font-medium text-gray-900 hover:text-blue-600">
                 Dashboard
               </a>
-              <a href="/products" className="px-3 py-2 text-sm font-medium text-gray-900 hover:text-blue-600">
+              <a href="#" className="px-3 py-2 text-sm font-medium text-gray-900 hover:text-blue-600">
                 Products
               </a>
-              <a href="/categories" className="px-3 py-2 text-sm font-medium text-gray-900 hover:text-blue-600">
+              <a href="#" className="px-3 py-2 text-sm font-medium text-gray-900 hover:text-blue-600">
                 Categories
               </a>
-              <a href="/reports" className="px-3 py-2 text-sm font-medium text-gray-900 hover:text-blue-600">
+              <a href="#" className="px-3 py-2 text-sm font-medium text-gray-900 hover:text-blue-600">
                 Reports
               </a>
             </div>
