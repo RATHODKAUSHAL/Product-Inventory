@@ -66,9 +66,10 @@ product-inventory-system/
 
 Follow these steps to run the project locally.
 
-### ⚙️ 1. Clone the Repository
 
 ```bash
+
+⚙️ 1. Clone the Repository
 git clone https://github.com/RATHODKAUSHAL/Product-Inventory.git
 cd product-inventory-system 
 
